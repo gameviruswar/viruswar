@@ -53,23 +53,21 @@
   <string name="BATTLE_WINNER">В естественном отборе победил вирус:</string>
   <string name="BATTLE_DEAD_HEAT">Естественный отбор не выявил победителя...</string>
 
-  <string name="GN_HEALTH">Здоровье</string>
+  <string name="GN_REPLICATION">Replication</string>
+  <string name="GN_ATTACK">Attack</string>
+  <string name="GN_DEFENSE">Defense</string>
+  <string name="GN_AGILITY">Agility</string>
+  <string name="GN_POWER">Power</string>
+  <string name="GN_VAMPIRE">Vampirism</string>
+  <string name="GN_REFLECTION">Reflection</string>
+  <string name="GN_REGENERATION">Regeneration</string>
+  <string name="GN_TOXIN">Toxin</string>
+  <string name="GN_STUNNING">Stunning</string>
 
-  <string name="GN_REPLICATION">Репликация</string>
-  <string name="GN_ATTACK">Атака</string>
-  <string name="GN_DEFENSE">Защита</string>
-  <string name="GN_AGILITY">Ловкость</string>
-  <string name="GN_POWER">Усиление</string>
-  <string name="GN_VAMPIRE">Вампиризм</string>
-  <string name="GN_REFLECTION">Рефлексия</string>
-  <string name="GN_REGENERATION">Регенерация</string>
-  <string name="GN_TOXIN">Токсин</string>
-  <string name="GN_STUNNING">Оглушение</string>
-
-  <string name="GN_MAXSPEED">Скорость</string>
-  <string name="GN_MIGRATION">Миграция</string>
-  <string name="GN_HOMEOSTASIS">Гомеостаз</string> <!-- стадный инстинкт -->
-  <string name="GN_AGGRESSION">Агрессивность</string>
+  <string name="GN_MAXSPEED">Speed</string>
+  <string name="GN_MIGRATION">Migration</string>
+  <string name="GN_HOMEOSTASIS">Homeostasis</string> <!-- herd instinct -->
+  <string name="GN_AGGRESSION">Aggression</string>
 
   <string name="LB_AUTOR_HELP">Поле для ввода имени автора</string>
   <string name="LB_VIRUS_NAME_HELP">Поле для ввода названия вируса</string>
@@ -87,7 +85,7 @@
   <string name="GN_STUNNING_HELP">Оглушение - отвечает за вероятность и длительность оглушения. Оглушение прерывает все действия атакуемого на время оглушения</string>
 
   <string name="GN_MAXSPEED_HELP">Скорость - отвечает за скорость перемещения</string>
-  <string name="GN_MIGRATION_HELP">Миграция - отвечает за активное перемещение по карте</string>
+  <string name="GN_MIGRATION_HELP">Миграция - отвечает за активность перемещения по карте</string>
   <string name="GN_HOMEOSTASIS_HELP">Гомеостаз - отвечает за единство или разобщенность при перемещение</string>
   <string name="GN_AGGRESSION_HELP">Агрессивность - отвечает за вступление или откладывание вступления в бой</string>
 

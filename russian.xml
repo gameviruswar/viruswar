@@ -53,8 +53,6 @@
   <string name="BATTLE_WINNER">В естественном отборе победил вирус:</string>
   <string name="BATTLE_DEAD_HEAT">Естественный отбор не выявил победителя...</string>
 
-  <string name="GN_HEALTH">Здоровье</string>
-
   <string name="GN_REPLICATION">Репликация</string>
   <string name="GN_ATTACK">Атака</string>
   <string name="GN_DEFENSE">Защита</string>
@@ -87,7 +85,7 @@
   <string name="GN_STUNNING_HELP">Оглушение - отвечает за вероятность и длительность оглушения. Оглушение прерывает все действия атакуемого на время оглушения</string>
 
   <string name="GN_MAXSPEED_HELP">Скорость - отвечает за скорость перемещения</string>
-  <string name="GN_MIGRATION_HELP">Миграция - отвечает за активное перемещение по карте</string>
+  <string name="GN_MIGRATION_HELP">Миграция - отвечает за активность перемещения по карте</string>
   <string name="GN_HOMEOSTASIS_HELP">Гомеостаз - отвечает за единство или разобщенность при перемещение</string>
   <string name="GN_AGGRESSION_HELP">Агрессивность - отвечает за вступление или откладывание вступления в бой</string>
 
