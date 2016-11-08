@@ -1,2 +1,0 @@
-# viruswar
-game viruswar translations
