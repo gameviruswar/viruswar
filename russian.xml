@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <string name="LANG_SHORT">Ru</string>
+  <string name="HELP_TRANSLATE">Помочь с переводом</string>
+
+  <string name="BTN_EXIT">Выход</string>
+  <string name="BTN_BACK">Назад</string>
+  <string name="BTN_BATTLE">Битва</string>
+  <string name="BTN_CANCEL">Отменить</string>
+  <string name="BTN_SAVE">Сохранить</string>
+
+  <string name="BTN_START_GAME">Начать игру</string>
+  <string name="BTN_EVOLUTION">Эволюция</string>
+  <string name="BTN_MULTIPLAYER">Сетевая игра</string>
+
+  <string name="RATE_GAME">Оцените игру</string>
+  <string name="THANKS_RATE_GAME">Спасибо за вашу оценку!</string>
+
+  <string name="EVOLUTION_IN_DEV">Режим Эволюция находится в разработке</string>
+  <string name="MULTIPLAYER_IN_DEV">Режим сетевой игры находится в разработке</string>
+
+  <string name="EVO_NEED_FULL_VERSION">Эволюция доступна только в полной версии. Скачать?</string>
+
+  <string name="VL_ADD_VIRUS">Создать вирус</string>
+  <string name="LB_AUTOR">Автор</string>
+  <string name="LB_VIRUS_NAME">Название вируса</string>
+  <string name="LB_PWD">Пароль</string>
+
+  <string name="INCORRECT_PWD">Неправильный пароль</string>
+  <string name="ENTER_PWD">Введите пароль:</string>
+
+  <string name="POPUP_EDIT">Редактировать</string>
+  <string name="POPUP_CLONE">Клонировать</string>
+  <string name="POPUP_DELETE">Удалить</string>
+  <string name="POPUP_COPY">Копировать</string>
+  <string name="POPUP_PASTE">Вставить</string>
+
+  <string name="VC_COPY_TO_CLIP">Вирус скопирован в буфер обмена</string>
+  <string name="VC_PASTE_ERR">Ошибка вставки</string>
+  <string name="VC_PASTE_OK">Вирус добавлен из буфера обмена</string>
+
+  <string name="DIALOG_REMOVE_VIRUS">Вы действительно хотите удалить вирус "{0}"?</string>
+
+  <string name="DIALOG_YES">Да</string>
+  <string name="DIALOG_NO">Нет</string>
+  <string name="DIALOG_OK">Ок</string>
+  <string name="DIALOG_CANCEL">Отмена</string>
+
+  <string name="REQUEST_STOP_BATTLE">Вы действительно хотите завершить битву?</string>
+  <string name="REQUEST_DEAD_HEAT">Битва затянулась...\nОбъявить ничью?</string>
+  <string name="REQUEST_EXIT">Вы действительно хотите выйти?</string>
+
+  <string name="BATTLE_WINNER">В естественном отборе победил вирус:</string>
+  <string name="BATTLE_DEAD_HEAT">Естественный отбор не выявил победителя...</string>
+
+  <string name="GN_HEALTH">Здоровье</string>
+
+  <string name="GN_REPLICATION">Репликация</string>
+  <string name="GN_ATTACK">Атака</string>
+  <string name="GN_DEFENSE">Защита</string>
+  <string name="GN_AGILITY">Ловкость</string>
+  <string name="GN_POWER">Усиление</string>
+  <string name="GN_VAMPIRE">Вампиризм</string>
+  <string name="GN_REFLECTION">Рефлексия</string>
+  <string name="GN_REGENERATION">Регенерация</string>
+  <string name="GN_TOXIN">Токсин</string>
+  <string name="GN_STUNNING">Оглушение</string>
+
+  <string name="GN_MAXSPEED">Скорость</string>
+  <string name="GN_MIGRATION">Миграция</string>
+  <string name="GN_HOMEOSTASIS">Гомеостаз</string> <!-- стадный инстинкт -->
+  <string name="GN_AGGRESSION">Агрессивность</string>
+
+  <string name="LB_AUTOR_HELP">Поле для ввода имени автора</string>
+  <string name="LB_VIRUS_NAME_HELP">Поле для ввода названия вируса</string>
+  <string name="LB_PWD_HELP">Поле для ввода пароля. Пароль необходим, для защиты конфигурации генов, от просмотра другими игроками</string>
+
+  <string name="GN_REPLICATION_HELP">Репликация - отвечает за скорость роста популяции</string>
+  <string name="GN_ATTACK_HELP">Атака - отвечает за физический урон</string>
+  <string name="GN_DEFENSE_HELP">Защита - отвечает за снижение физического урона</string>
+  <string name="GN_AGILITY_HELP">Ловкость - отвечает за увеличение шанса критического удара и влияет на очередность атаки</string>
+  <string name="GN_POWER_HELP">Усиление - отвечает за усиление характеристик всех генов</string>
+  <string name="GN_VAMPIRE_HELP">Вампиризм - отвечает за восстановление здоровья за счет атаки</string>
+  <string name="GN_REFLECTION_HELP">Рефлексия - отвечает за отражение части урона на самого атакующего</string>
+  <string name="GN_REGENERATION_HELP">Регенерация - отвечает за восстановление здоровья в течении всего времени</string>
+  <string name="GN_TOXIN_HELP">Токсин - отвечает за постепенное уменьшение здоровья, вплоть до смерти или до окончания действия эффекта</string>
+  <string name="GN_STUNNING_HELP">Оглушение - отвечает за вероятность и длительность оглушения. Оглушение прерывает все действия атакуемого на время оглушения</string>
+
+  <string name="GN_MAXSPEED_HELP">Скорость - отвечает за скорость перемещения</string>
+  <string name="GN_MIGRATION_HELP">Миграция - отвечает за активное перемещение по карте</string>
+  <string name="GN_HOMEOSTASIS_HELP">Гомеостаз - отвечает за единство или разобщенность при перемещение</string>
+  <string name="GN_AGGRESSION_HELP">Агрессивность - отвечает за вступление или откладывание вступления в бой</string>
+
+  <string name="EV_POP_SIZE">Размер популяции</string>
+  <string name="EV_DROPOUT_RATE">Процент отсева</string>
+  <string name="EV_MUTANT_CHANCE">Частота мутаций</string>
+  <string name="EV_MUTATION_POWER">Сила мутаций</string>
+  <string name="EV_EVOLUTION">Эволюция</string>
+
+  <string name="TUTORIAL_1">Для начала нужно создать вирус. Чтобы перейти в Лабораторию нажмите "Создать вирус".</string>
+  <string name="TUTORIAL_2">Здесь вы можете изменять ДНК вируса, передвигая ползунки, распределять гены между хромосомами.</string>
+  <string name="TUTORIAL_3">Вам необходимо распределить 128 генов, между 10 боевыми характеристиками и установить значения для 4 поведенческих характеристик.</string>
+  <string name="TUTORIAL_4">Кроме того вы можете редактировать, копировать, клонировать и удалять вирусы, для этого на вирусе используйте длительное нажатие.</string>
+  <string name="TUTORIAL_5">Теперь устроим сражение между вирусами. Для этого выберите два вируса кликнув по ним и нажмите "Битва".</string>
+
+</languages>
