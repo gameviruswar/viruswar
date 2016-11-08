@@ -1,8 +1,8 @@
 # viruswar
 game viruswar translations
 
-Вы можете отправить переведенный текст по email gameviruswar@yandex.ru
-Большое спасибо!
+Р’С‹ РјРѕР¶РµС‚Рµ РѕС‚РїСЂР°РІРёС‚СЊ РїРµСЂРµРІРµРґРµРЅРЅС‹Р№ С‚РµРєСЃС‚ РїРѕ email gameviruswar@yandex.ru
+Р‘РѕР»СЊС€РѕРµ СЃРїР°СЃРёР±Рѕ!
 
 You can send the translated text by email gameviruswar@yandex.ru
 Thank you very much!
