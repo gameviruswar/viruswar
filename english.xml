@@ -14,12 +14,12 @@
   <string name="BTN_MULTIPLAYER">Multiplayer</string>
 
   <string name="RATE_GAME">Rate this game</string>
-  <string name="THANKS_RATE_GAME">Спасибо за вашу оценку!</string>
+  <string name="THANKS_RATE_GAME">Thank you for your mark!</string>
 
-  <string name="EVOLUTION_IN_DEV">Режим Эволюция находится в разработке</string>
-  <string name="MULTIPLAYER_IN_DEV">Режим сетевой игры находится в разработке</string>
+  <string name="EVOLUTION_IN_DEV">Evolution mode is in development</string>
+  <string name="MULTIPLAYER_IN_DEV">Multiplayer mode is in development</string>
 
-  <string name="EVO_NEED_FULL_VERSION">Эволюция доступна только в полной версии. Скачать?</string>
+  <string name="EVO_NEED_FULL_VERSION">Evolution is only available in the full version. Download?</string>
 
   <string name="VL_ADD_VIRUS">Create a virus</string>
   <string name="LB_AUTOR">Author</string>
@@ -50,8 +50,8 @@
   <string name="REQUEST_DEAD_HEAT">The battle dragged on...\nDeclare a draw?</string>
   <string name="REQUEST_EXIT">Are you sure you want to quit?</string>
 
-  <string name="BATTLE_WINNER">В естественном отборе победил вирус:</string>
-  <string name="BATTLE_DEAD_HEAT">Естественный отбор не выявил победителя...</string>
+  <string name="BATTLE_WINNER">In natural selection the virus has won:</string>
+  <string name="BATTLE_DEAD_HEAT">Natural selection has not recognized any winner...</string>
 
   <string name="GN_REPLICATION">Replication</string>
   <string name="GN_ATTACK">Attack</string>
@@ -69,36 +69,36 @@
   <string name="GN_HOMEOSTASIS">Homeostasis</string> <!-- herd instinct -->
   <string name="GN_AGGRESSION">Aggression</string>
 
-  <string name="LB_AUTOR_HELP">Поле для ввода имени автора</string>
-  <string name="LB_VIRUS_NAME_HELP">Поле для ввода названия вируса</string>
-  <string name="LB_PWD_HELP">Поле для ввода пароля. Пароль необходим, для защиты конфигурации генов, от просмотра другими игроками</string>
+  <string name="LB_AUTOR_HELP">Field to enter the name of the author</string>
+  <string name="LB_VIRUS_NAME_HELP">Field to enter the name of the virus</string>
+  <string name="LB_PWD_HELP">Field for password entry. The password is required to protect the genes configuration from being viewed by other players</string>
 
-  <string name="GN_REPLICATION_HELP">Репликация - отвечает за скорость роста популяции</string>
-  <string name="GN_ATTACK_HELP">Атака - отвечает за физический урон</string>
-  <string name="GN_DEFENSE_HELP">Защита - отвечает за снижение физического урона</string>
-  <string name="GN_AGILITY_HELP">Ловкость - отвечает за увеличение шанса критического удара и влияет на очередность атаки</string>
-  <string name="GN_POWER_HELP">Усиление - отвечает за усиление характеристик всех генов</string>
-  <string name="GN_VAMPIRE_HELP">Вампиризм - отвечает за восстановление здоровья за счет атаки</string>
-  <string name="GN_REFLECTION_HELP">Рефлексия - отвечает за отражение части урона на самого атакующего</string>
-  <string name="GN_REGENERATION_HELP">Регенерация - отвечает за восстановление здоровья в течении всего времени</string>
-  <string name="GN_TOXIN_HELP">Токсин - отвечает за постепенное уменьшение здоровья, вплоть до смерти или до окончания действия эффекта</string>
-  <string name="GN_STUNNING_HELP">Оглушение - отвечает за вероятность и длительность оглушения. Оглушение прерывает все действия атакуемого на время оглушения</string>
+  <string name="GN_REPLICATION_HELP">Replication - parameter that controls the population growth rate</string>
+  <string name="GN_ATTACK_HELP">Attack - controls the physical damage</string>
+  <string name="GN_DEFENSE_HELP">Defense - controls the reduction of physical damage</string>
+  <string name="GN_AGILITY_HELP">Agility - controls the increase of critical hit chance and impacts the order of the attack</string>
+  <string name="GN_POWER_HELP">Power - controls the amplification of characteristics of all genes</string>
+  <string name="GN_VAMPIRE_HELP">Vampirism - controls the recovery of health at the expense of attacks</string>
+  <string name="GN_REFLECTION_HELP">Reflection - controls the reflection of damage to the attacker</string>
+  <string name="GN_REGENERATION_HELP">Regeneration - controls the health recovery throughout the time the battle lasts</string>
+  <string name="GN_TOXIN_HELP">Toxin - controls the gradual decrease of health, up to death or until the effect action ends</string>
+  <string name="GN_STUNNING_HELP">Stun - controls the probability and duration of stunning. The stun interrupts all actions of the attacked player for the time the stunning lasts</string>
 
-  <string name="GN_MAXSPEED_HELP">Скорость - отвечает за скорость перемещения</string>
-  <string name="GN_MIGRATION_HELP">Миграция - отвечает за активность перемещения по карте</string>
-  <string name="GN_HOMEOSTASIS_HELP">Гомеостаз - отвечает за единство или разобщенность при перемещение</string>
-  <string name="GN_AGGRESSION_HELP">Агрессивность - отвечает за вступление или откладывание вступления в бой</string>
+  <string name="GN_MAXSPEED_HELP">Speed - controls the moving speed on the map</string>
+  <string name="GN_MIGRATION_HELP">Migration - controls the activity of moving on the map</string>
+  <string name="GN_HOMEOSTASIS_HELP">Homeostasis - controls the unity or separateness during the moving</string>
+  <string name="GN_AGGRESSION_HELP">Aggression - controls the entering the battle or putting-off of joining the battle</string>
 
-  <string name="EV_POP_SIZE">Размер популяции</string>
-  <string name="EV_DROPOUT_RATE">Процент отсева</string>
-  <string name="EV_MUTANT_CHANCE">Частота мутаций</string>
-  <string name="EV_MUTATION_POWER">Сила мутаций</string>
-  <string name="EV_EVOLUTION">Эволюция</string>
+  <string name="EV_POP_SIZE">Population size</string>
+  <string name="EV_DROPOUT_RATE">Dropout rate</string>
+  <string name="EV_MUTANT_CHANCE">Mutation rate</string>
+  <string name="EV_MUTATION_POWER">Power of mutations</string>
+  <string name="EV_EVOLUTION">Evolution</string>
 
-  <string name="TUTORIAL_1">Для начала нужно создать вирус. Чтобы перейти в Лабораторию нажмите "Создать вирус".</string>
-  <string name="TUTORIAL_2">Здесь вы можете изменять ДНК вируса, передвигая ползунки, распределять гены между хромосомами.</string>
-  <string name="TUTORIAL_3">Вам необходимо распределить 128 генов, между 10 боевыми характеристиками и установить значения для 4 поведенческих характеристик.</string>
-  <string name="TUTORIAL_4">Кроме того вы можете редактировать, копировать, клонировать и удалять вирусы, для этого на вирусе используйте длительное нажатие.</string>
-  <string name="TUTORIAL_5">Теперь устроим сражение между вирусами. Для этого выберите два вируса кликнув по ним и нажмите "Битва".</string>
+  <string name="TUTORIAL_1">First you must create a virus. Press "Create virus" button to proceed to Laboratory.</string>
+  <string name="TUTORIAL_2">Using sliders, change the virus DNA and distribute genes between the chromosomes.</string>
+  <string name="TUTORIAL_3">You must distribute 128 genes, between 10 combat characteristics and to set the values for 4 behavioural characteristics.</string>
+  <string name="TUTORIAL_4">Besides, feel free to edit, copy, clone or delete viruses, for this purpose press and hold the virus button.</string>
+  <string name="TUTORIAL_5">Now arrange the battle between viruses. To do this, select two of the virus by clicking on them and click "Fight".</string>
 
 </languages>
