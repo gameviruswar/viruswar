@@ -5,7 +5,7 @@
 
   <string name="BTN_EXIT">Exit</string>
   <string name="BTN_BACK">Back</string>
-  <string name="BTN_BATTLE">Battle</string>
+  <string name="BTN_BATTLE">Join battle</string>
   <string name="BTN_CANCEL">Cancel</string>
   <string name="BTN_SAVE">Save</string>
 
@@ -55,9 +55,9 @@
 
   <string name="GN_REPLICATION">Replication</string>
   <string name="GN_ATTACK">Attack</string>
-  <string name="GN_DEFENSE">Defense</string>
+  <string name="GN_PROTECTION">Protection</string>
   <string name="GN_AGILITY">Agility</string>
-  <string name="GN_POWER">Power</string>
+  <string name="GN_BOOST">Boost</string>
   <string name="GN_VAMPIRE">Vampirism</string>
   <string name="GN_REFLECTION">Reflection</string>
   <string name="GN_REGENERATION">Regeneration</string>
@@ -75,9 +75,9 @@
 
   <string name="GN_REPLICATION_HELP">Replication - parameter that controls the population growth rate</string>
   <string name="GN_ATTACK_HELP">Attack - controls the physical damage</string>
-  <string name="GN_DEFENSE_HELP">Defense - controls the reduction of physical damage</string>
+  <string name="GN_PROTECTION_HELP">Protection - controls the reduction of physical damage</string>
   <string name="GN_AGILITY_HELP">Agility - controls the increase of critical hit chance and impacts the order of the attack</string>
-  <string name="GN_POWER_HELP">Power - controls the amplification of characteristics of all genes</string>
+  <string name="GN_BOOST_HELP">Boost - controls the boost of characteristics of all genes</string>
   <string name="GN_VAMPIRE_HELP">Vampirism - controls the recovery of health at the expense of attacks</string>
   <string name="GN_REFLECTION_HELP">Reflection - controls the reflection of damage to the attacker</string>
   <string name="GN_REGENERATION_HELP">Regeneration - controls the health recovery throughout the time the battle lasts</string>
@@ -95,10 +95,19 @@
   <string name="EV_MUTATION_POWER">Power of mutations</string>
   <string name="EV_EVOLUTION">Evolution</string>
 
-  <string name="TUTORIAL_1">First you must create a virus. Press "Create virus" button to proceed to Laboratory.</string>
+  <string name="TUTORIAL_1">First you must create a virus. Press "Create virus" button to proceed to the Laboratory.</string>
   <string name="TUTORIAL_2">Using sliders, change the virus DNA and distribute genes between the chromosomes.</string>
   <string name="TUTORIAL_3">You must distribute 128 genes, between 10 combat characteristics and to set the values for 4 behavioural characteristics.</string>
   <string name="TUTORIAL_4">Besides, feel free to edit, copy, clone or delete viruses, for this purpose press and hold the virus button.</string>
-  <string name="TUTORIAL_5">Now arrange the battle between viruses. To do this, select two of the virus by clicking on them and click "Fight".</string>
+  <string name="TUTORIAL_5">Now, let's start the battle between the viruses. For this purpose, choose two viruses by clicking on them and press "Join battle".</string>
+
+  <string name="GP_TAGLINE">Join the biological survival war!</string>
+  <string name="GP_DESCRIPTION">Plunge into the atmosphere of bio-punk, create new viruses, modify DNA of the existing viruses and through battles determine the strongest virus!
+
+    In VirusWar, you control the behavior and combat characteristics of viruses, test their viability through battles with other viruses.
+
+    The show of independently battling colonies of viruses is simply thrilling!
+
+    Exchange the viruses with friends, find out whose virus is the best of the best and who is the true experimenting geneticist.</string>
 
 </languages>
