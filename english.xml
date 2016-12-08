@@ -28,16 +28,21 @@
 
   <string name="INCORRECT_PWD">Incorrect password</string>
   <string name="ENTER_PWD">Enter password:</string>
+  <string name="OLD_VIRUS_VERSION">The virus was created in a previous version of the game. Resave it in the Laboratory</string>
+  <string name="OLD_GAME_VERSION">The virus was created in a newer version of the game. Update the game to the latest version</string>
 
   <string name="POPUP_EDIT">Edit</string>
   <string name="POPUP_CLONE">Clone</string>
   <string name="POPUP_DELETE">Delete</string>
+  <string name="POPUP_SHARE">Share</string>
   <string name="POPUP_COPY">Copy</string>
   <string name="POPUP_PASTE">Paste</string>
 
   <string name="VC_COPY_TO_CLIP">The virus copied to the clipboard</string>
   <string name="VC_PASTE_ERR">Error pasting</string>
   <string name="VC_PASTE_OK">The virus added from the clipboard</string>
+  <string name="VC_NEED_PWD">Before copying of the virus you have to set the password, otherwise the enemy will be able to view the code of DNA</string>
+  <string name="VS_NEED_PWD">Before sending of the virus you have to set the password, otherwise the enemy will be able to view the code of DNA</string>
 
   <string name="DIALOG_REMOVE_VIRUS">Are you sure you want to delete a virus "{0}"?</string>
 

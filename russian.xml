@@ -28,16 +28,21 @@
 
   <string name="INCORRECT_PWD">Неправильный пароль</string>
   <string name="ENTER_PWD">Введите пароль:</string>
+  <string name="OLD_VIRUS_VERSION">Вирус был создан в предыдущей версии игры. Пересохраните его в Лаборатории</string>
+  <string name="OLD_GAME_VERSION">Вирус был создан в новой версии игры. Обновите игру до последней версии</string>
 
   <string name="POPUP_EDIT">Редактировать</string>
   <string name="POPUP_CLONE">Клонировать</string>
   <string name="POPUP_DELETE">Удалить</string>
+  <string name="POPUP_SHARE">Отправить</string>
   <string name="POPUP_COPY">Копировать</string>
   <string name="POPUP_PASTE">Вставить</string>
 
   <string name="VC_COPY_TO_CLIP">Вирус скопирован в буфер обмена</string>
   <string name="VC_PASTE_ERR">Ошибка вставки</string>
   <string name="VC_PASTE_OK">Вирус добавлен из буфера обмена</string>
+  <string name="VC_NEED_PWD">Перед копированием вируса вы должны установить пароль, иначе противник сможет подсмотреть код ДНК</string>
+  <string name="VS_NEED_PWD">Перед отправкой вируса вы должны установить пароль, иначе противник сможет подсмотреть код ДНК</string>
 
   <string name="DIALOG_REMOVE_VIRUS">Вы действительно хотите удалить вирус "{0}"?</string>
 
